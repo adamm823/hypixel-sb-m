@@ -1,1 +1,1 @@
-# minion-calculator
+# hypixel-sb-m
